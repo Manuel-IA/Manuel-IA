@@ -8,7 +8,7 @@ Ruby on Rails · PostgreSQL · Search Systems · AI & Machine Learning
 ## Sobre mí
 
 Soy un desarrollador Fullstack con fuerte enfoque en Backend Engineering.  
-Tengo más de 5 años de experiencia construyendo APIs, servicios backend y sistemas de búsqueda para productos en producción, trabajando con Ruby on Rails, PostgreSQL, Node.js y frameworks modernos de frontend.
+Tengo más de 6 años de experiencia construyendo APIs, servicios backend y sistemas de búsqueda para productos en producción, trabajando con Ruby on Rails, PostgreSQL, Node.js y frameworks modernos de frontend.
 
 En los últimos años he acumulado más de 1600 contribuciones en GitHub (principalmente en repositorios privados), trabajando en sistemas de alto tráfico y en soluciones de búsqueda inteligente apoyadas en IA y datos.
 
